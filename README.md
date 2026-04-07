@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning about python ai and ml. i type 130wpm on <br>average and i like to solve rubiks cubes
+Hello I'm Manveer Makkar, currently studying btech cse.
 
 
 # 💻 Tech Stack:
