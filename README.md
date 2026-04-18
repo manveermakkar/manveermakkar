@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello I'm Manveer Makkar, currently a sophomore studying btech cse.
+Hello I'm Manveer Makkar, currently a sophomore studying btech cse and learning ai ml
+.
 
 
 # 💻 Tech Stack:
