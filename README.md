@@ -1,6 +1,22 @@
 # 💫 About Me:
-Hello I'm Manveer Makkar, currently a sophomore studying btech cse and learning ai ml
-.
+### hey, I'm Manveer 👋
+
+🎓 CS undergrad who fell down the AI/ML & data science rabbit hole and never really climbed back out
+🧮 math nerd at heart — I like problems that need both logic and a little intuition
+💼 spent a summer as an AI Intern @ **Ernst & Young**, building data-validation systems and untangling relational databases for their Software Asset Management team
+🏗️ currently building things that turn messy data into decisions
+
+---
+
+
+
+**🎲 when I'm not coding:**
+- solving Rubik's cubes competitively (2nd place, UP State-Level 🏆, sub-20s across 4 categories)
+- grinding LeetCode (230+ solved, 47-day streak and counting)
+- racing myself on MonkeyType
+- probably still thinking about that one bug from 3am
+
+📫 hmu if you wanna talk AI/ML, data science, or just nerd out about math
 
 
 # 💻 Tech Stack:
