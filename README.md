@@ -28,3 +28,19 @@
 ![](https://streak-stats.demolab.com/?user=manveermakkar&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manveermakkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+
+[![monkeytype.badge]](https://monkeytype.com/)
+```
+Then add `.github/workflows/monkeytype-readme-badge.yml` (included here) to that same
+repo, with the `MONKEYTYPE_APE_KEY` secret set up the same way as above. It'll rewrite
+the badge URL whenever your personal best changes.
+Same Cloudflare caveat applies here — if the badge stops updating, check the Action logs
+for a 503 first.
+If you'd rather not automate the badge at all, you can just manually edit the URL's
+`message=` query param yourself whenever your PB improves (no Action needed):
+```
+https://monkeytype-badge-vhd5lan7mmhz.runkit.sh?message=145wpm&label=monkeytype
+```
